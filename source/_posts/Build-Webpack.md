@@ -26,3 +26,9 @@ Webpack 通过 loader 转换文件，通过Plugin 注入钩子，最后输出由
 
 1. file-loader
 2. url-loader
+
+## 一些教程链接
+
+- 阮一峰 webpack 系列 demo：<https://github.com/ruanyf/webpack-demos#demo01-entry-file-source>
+- webpack 4 系列教程：<https://www.valentinog.com/blog/webpack-tutorial/>
+- webpack 解惑：<https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9>
