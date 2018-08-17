@@ -12,6 +12,10 @@ tags: Career
 
 ![BackEnd_Learning_RoadMap](/imgs/backend.jpg)
 
+### 2nd 2018
+
+![BackEnd Learning RoadMap 2](/imgs/backend2.png)
+
 
 ## Devops
 
