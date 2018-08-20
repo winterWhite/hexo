@@ -15,6 +15,8 @@ tags: Library
 
 - Anime animation library: <http://animejs.com/>
 - Lottie mobile animation library: <http://airbnb.io/lottie/>
+- React Native Components Library: <https://react-native-training.github.io/react-native-elements/docs/0.19.0/avatar.html>
+- React-based charts react-vis: <https://uber.github.io/react-vis/examples/showcases/misc>
 
 ## Utility JS Library
 
