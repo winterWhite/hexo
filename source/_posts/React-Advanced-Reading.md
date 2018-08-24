@@ -27,3 +27,7 @@ tags:
 ## Refs & Dom
 
 ## Testing
+
+# Redux Learning
+
+Resource: <https://egghead.io/courses/getting-started-with-redux>
