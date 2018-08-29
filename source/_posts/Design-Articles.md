@@ -110,3 +110,17 @@ When designing actions, it’s important to communicate their place in the hiera
 # Form Design For HTML5
 
 <https://www.smashingmagazine.com/2018/08/ux-html5-mobile-form-part-1/?utm_source=mobiledevweekly&utm_medium=email>
+
+# Color Design
+
+<https://uxplanet.org/bright-colors-in-ui-design-benefits-and-drawbacks-433680f0a1c7>
+
+# 书单
+
+<https://docs.google.com/spreadsheets/d/11R5U4v__YNqPcENM7ui2OsUK7hLWLlEKg6H8yaO8us8/edit#gid=0>
+
+# How to be a UX／UI Designer
+
+<https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95>
+
+<https://uxplanet.org/12-mobile-ux-design-trends-for-2018-5b4ce7e8445f>
