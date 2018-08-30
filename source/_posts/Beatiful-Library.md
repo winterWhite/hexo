@@ -31,3 +31,4 @@ tags: Library
 ## Design 
 
 - <https://refactoringui.com/>
+- Color Scale: <https://github.com/hihayk/scale>
