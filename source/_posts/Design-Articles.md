@@ -126,3 +126,7 @@ When designing actions, it’s important to communicate their place in the hiera
 <https://uxplanet.org/12-mobile-ux-design-trends-for-2018-5b4ce7e8445f>
 
 - Form Design <https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/>
+
+<https://uxplanet.org/ux-design-how-to-use-animations-in-mobile-applications-a8257ebffe90>
+
+<https://heydesigner.com/blog/the-10-commandments-of-good-products/>
