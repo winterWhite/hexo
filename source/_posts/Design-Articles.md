@@ -130,3 +130,32 @@ When designing actions, it’s important to communicate their place in the hiera
 <https://uxplanet.org/ux-design-how-to-use-animations-in-mobile-applications-a8257ebffe90>
 
 <https://heydesigner.com/blog/the-10-commandments-of-good-products/>
+
+# Some Good Writer in Medium
+
+<https://medium.com/@johnyvino>
+
+<https://medium.com/@101>
+
+<https://uxdesign.cc/@fabriciot>
+
+<https://medium.com/@tubikstudio>
+
+<https://medium.com/@pablostanley>
+
+<https://medium.com/@ireneau>
+
+<https://medium.com/@usemuzli>
+
+<https://medium.com/@Prototypr>
+
+<https://medium.com/@tiffanyeaton>
+
+<https://medium.com/@justinmind>
+
+<https://medium.com/@bestfolios>
+
+<https://medium.com/@soulless>
+
+<https://medium.com/@Mockplus>
+
